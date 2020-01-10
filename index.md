@@ -50,7 +50,7 @@ tg://proxy?server=Bow.MonsterX.space&port=443&secret=eec254a2b7f3080ac6ff9465eef
 ```
 tg://setlanguage?lang=classic-zh-cn
 ```
-
+[跳转Ap1](tg://setlanguage?lang=classic-zh-cn) <br><br>
 <a href="tg://setlanguage?lang=classic-zh-cn">跳转App</a>
 
 
