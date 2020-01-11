@@ -3,6 +3,7 @@
 [📶电报掉线，连不上](#解决联网问题) <br>
 [🔤都是英文，看不懂](#使用中文汉化) <br>
 [📶线路失效了，需要新线路](#加入网络线路分发公众号频道) <br><br>
+如果还没下载电报APP，请先在这里下载：[git.io/dbapp](https://github.com/esu-tg/tg-app/blob/master/README.md) <br>
 <!-- ![图片加载失败，请刷新网页](https://raw.githubusercontent.com/esu-tg/tg-help/master/help-img/logo.jpg) <br> -->
 ## 解决联网问题
 ![图片加载失败，请刷新网页](https://raw.githubusercontent.com/esu-tg/tg-help/master/help-img/connection-issue.png) <br><br>
