@@ -7,15 +7,20 @@
 <!-- ![图片加载失败，请刷新网页](https://raw.github.cnpmjs.org/esu-tg/tg-help/master/help-img/logo.jpg) <br> -->
 ## 解决联网问题
 ![图片加载失败，请刷新网页](https://raw.github.cnpmjs.org/esu-tg/tg-help/master/help-img/connection-issue.png) <br><br>
-世界各地的志愿者们为了让电报服务更加稳定，建立了无数网络优化线路，接下来贴出几个。 <br>
-**用法：**直接点击下面的线路链接，并且允许打开电报Telegram <br><br>
+世界各地的志愿者们为了让电报服务更加稳定，建立了无数网络优化线路，接下来贴出几个。 <br><br>
+**用法：**直接点击下面的**自动连接**，并且允许打开电报Telegram <br><br>
 这时**电报APP会跳出来一个对话框**，点击右下角的按键（写着CONNECT PROXY）即可。如果电报无法弹出，请试试更换浏览器。 <br>
+<br>
 
-[👉线路1👈](tg://proxy?server=tgfake.xyz&port=443&secret=ee486200000000000000000000000001497777772e63646e37372e636f6d)<br>
-[👉线路2👈](tg://proxy?server=54.255.152.218&port=443&secret=ee000000000000000000000000000000017777772e62696e672e636f6d)<br>
-[👉线路3👈](tg://proxy?server=13.67.37.201&port=443&secret=ee000000000000000000000000000000017777772e62696e672e636f6d)<br>
-[👉线路4👈](tg://proxy?server=tarfand.s2.niazcom.org&port=11&secret=7hER7u4REe7uERHu7hER7u53d3cuZGlnaWthbGEuY29t)<br>
-[👉线路5👈](tg://proxy?server=13.76.225.100&port=443&secret=ee000000000000000000000000000000017777772e62696e672e636f6d)<br>
+<script src="https://cdn.jsdelivr.net/gh/esu-tg/esu-tg.github.io@master/scripts/connect_proxy.js"></script>
+<a href="javascript:go()">👉自动连接👈</a> <br><br>
+如果自动连接始终无法使用，请使用下面的手动连接。<br>
+
+[👉手动连接1👈](tg://proxy?server=tgfake.xyz&port=443&secret=ee486200000000000000000000000001497777772e63646e37372e636f6d)<br>
+[👉手动连接2👈](tg://proxy?server=54.255.152.218&port=443&secret=ee000000000000000000000000000000017777772e62696e672e636f6d)<br>
+[👉手动连接3👈](tg://proxy?server=13.67.37.201&port=443&secret=ee000000000000000000000000000000017777772e62696e672e636f6d)<br>
+[👉手动连接4👈](tg://proxy?server=tarfand.s2.niazcom.org&port=11&secret=7hER7u4REe7uERHu7hER7u53d3cuZGlnaWthbGEuY29t)<br>
+[👉手动连接5👈](tg://proxy?server=13.76.225.100&port=443&secret=ee000000000000000000000000000000017777772e62696e672e636f6d)<br>
 <br>
 
 **QQ浏览器，谷歌浏览器，火狐浏览器，苹果浏览器等大多数浏览器**都可以成功叫出电报APP。但是UC浏览器做不到，请看下面图片步骤： <br>
