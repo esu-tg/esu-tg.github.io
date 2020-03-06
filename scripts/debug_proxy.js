@@ -9,7 +9,7 @@ function go(){
 	var description = json_obj[num].desc;
 	proxy = proxy_https.replace("https://t.me/" , "tg://")
 	var length_end = json_obj.length - 1;
-	alert("returned proxies: 0 - " length_end + ", choose " + num + "\norigin url: " + proxy_https + "\n代理贡献者：" + description + "\nconnect to " + proxy + "\n点击确定后请允许打开电报APP。\n" + "如果不能连接代理，请返回这里再点一次连接，我们再给您一个新代理。");
+	alert("returned proxies: 0 - " + length_end + ", choose " + num + "\norigin url: " + proxy_https + "\n代理贡献者：" + description + "\nconnect to " + proxy + "\n点击确定后请允许打开电报APP。\n" + "如果不能连接代理，请返回这里再点一次连接，我们再给您一个新代理。");
 	window.location.href = proxy; 
 }
 
