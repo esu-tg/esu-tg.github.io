@@ -10,7 +10,6 @@
 世界各地的志愿者们为了让电报服务更加稳定，建立了无数网络优化线路，接下来贴出几个。 <br><br>
 **用法：**直接点击下面的**自动连接**，并且允许打开电报Telegram <br><br>
 这时**电报APP会跳出来一个对话框**，点击右下角的按键（写着CONNECT PROXY）即可。如果电报无法弹出，请试试更换浏览器。 <br>
-<br>
 
 <script src="https://cdn.jsdelivr.net/gh/esu-tg/esu-tg.github.io@master/scripts/connect_proxy.js"></script>
 <a href="javascript:go()">👉自动连接👈</a> <br><br>
