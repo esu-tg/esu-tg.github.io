@@ -1,6 +1,6 @@
 function go(){
 	//alert('请在点击确定之后允许打开 Telegram 。');
-	var json_obj = JSON.parse(Get("https://cdn.jsdelivr.net/gh/NekogramX/ProxyList@master/proxy_list.json")); 
+	var json_obj = JSON.parse(Get("https://raw.githubusercontent.com/esu-tg/esu-tg.github.io/master/proxy_list.json")); 
 	//console.log(json_obj);
 	console.log("返回長度 " + json_obj.length);
 	var num = random(0, json_obj.length - 1);
